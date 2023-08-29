@@ -1,0 +1,161 @@
+:root {
+    --white: #fff;
+    --dark-blue: #041E42;
+    --red: #9b1c2c;
+}
+
+header {
+    padding: 30px;
+    text-align: center;
+    background-color: var(--red);
+    color: var(--white);
+}
+
+.header h1 {
+    font-size: 2em;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-start;
+    background-color: var(--red);
+    color: var(--white);
+}
+
+.top-anchor-tags {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    font-size: 2em;
+}
+
+header a{
+    color: var(--white);
+    margin-bottom: none;
+    margin-right: 20px;
+    padding: 5px;
+    font-size: 18px;
+}
+
+.subheader {
+    display: flex;
+    background-color: var(--red);
+    color: var(--white);
+    justify-content: center;
+    padding: 20px;
+}
+
+.subheader h2 {
+    font-size: 1.5em;
+}
+
+.subheader-image {
+    display: flex;
+    background-color: var(--white);
+    justify-content: center;
+    padding: 20px;
+}
+
+.content {
+    background-color: var(--dark-blue);
+    color: var(--white);
+}
+
+
+.about-me {
+    font-size: 1.5em;
+    text-align: center;
+    padding: 20px;
+}
+
+.about-me h2 {
+    font-size: 50px;
+    margin-bottom: .5em;
+}
+
+.about-me p {
+    line-height: 1.2em;
+    margin-bottom: 32px;
+}
+
+.work h2 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flex-container .box-main {
+    flex-basis: 100%;
+    width: 900px;
+    height: 450px;
+}
+
+.work a {
+    font-size: 13px;
+    text-align: center;
+}
+
+.work h2 {
+    font-size: 50px;
+}
+
+.container {
+    font-size: 20px;
+    display: flex;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    border: 15px #fff;
+}
+
+.box-main {
+    width: 400px;
+    height: 400px;
+    background-color: lightblue;
+    margin: 20px;
+    padding: 20px;
+    border: 9px solid var(--red);
+}
+
+.box {
+    width: 400px;
+    height: 200px;
+    background-color: lightblue;
+    margin: 20px;
+    padding: 20px;
+    border: 9px solid var(--red);
+}
+
+.footer-links {
+    display: flex;
+    justify-content: flex-end;
+    background-color: var(--red);
+    color: var(--white);
+}
+
+.footer-links h2 {
+    font-size: 50px;
+}
+
+footer a{
+    color: var(--white);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 200px;
+    padding: 5px;
+    font-size: 18px;
+}
+
+
+@media screen and (max-width: 768px) {
+  main,
+  nav, body, footer {
+    flex-direction: column;
+  }
+}
