@@ -95,7 +95,7 @@ header a{
 }
 
 body {
-    background-color: var(--dark-blue);
+   
     display: flex;
     flex-direction: column;
 }
@@ -113,6 +113,9 @@ body {
     flex-basis: 100%;
     width: 900px;
     height: 400px;
+    background-image: url("/CSS/images/MagicMenu.png");
+    max-width: 100%;
+    
 }
 
 #work a {
@@ -120,6 +123,7 @@ body {
     flex-direction: column;
     font-size: 15px;
     text-align: center;
+    color: #fff;
 }
 
 #work h3 {
@@ -144,29 +148,88 @@ body {
     border: 15px #fff;
 }
 
+#magicMenu {
+    margin: 10px;
+}
+
 .box-main {
     display: flex;
     width: 400px;
-    height: 400px;
-    background-color: lightblue;
+    height: 400px;;
+    margin: 20px;
+    padding: 20px;
+    border: 9px solid var(--red);
+    flex-direction: column;
+    max-width: 100%;
+    background-image: url("../CSS/images/MagicMenu.png")!Important;
+    max-width: 100%;
+}
+
+.box1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 400px;
+    height: 200px;
+    background-color: url("../CSS/images/ocean\ with\ tiny\ islands\ .png");
     margin: 20px;
     padding: 20px;
     border: 9px solid var(--red);
     flex-direction: column;
 }
 
-.box {
+.box1 {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     width: 400px;
     height: 200px;
-    background-color: lightblue;
+    background-color: url("../CSS/images/pic\ of\ ocean\ with\ flamingos\ flying\ above\ the\ water.png") ;
     margin: 20px;
     padding: 20px;
     border: 9px solid var(--red);
     flex-direction: column;
 }
+
+.box2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 400px;
+    height: 200px;
+    background-color: url("../CSS/images/pic\ of\ sea\ turtle\ underwater\ .png");
+    margin: 20px;
+    padding: 20px;
+    border: 9px solid var(--red);
+    flex-direction: column;
+}
+
+.box3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 400px;
+    height: 200px;
+    background-color: url("../CSS/images/pic\ of\ water\ with\ trees\ and\ mountains\ in\ the\ background.png");
+    margin: 20px;
+    padding: 20px;
+    border: 9px solid var(--red);
+    flex-direction: column;
+}
+
+.box4 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 400px;
+    height: 200px;
+    background-color: url("../CSS/images/ocean\ with\ tiny\ islands\ .png");
+    margin: 20px;
+    padding: 20px;
+    border: 9px solid var(--red);
+    flex-direction: column;
+}
+
 
 #contact-me {
     background-color: var(--red);
