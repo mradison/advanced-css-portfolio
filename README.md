@@ -45,13 +45,17 @@ https://www.youtube.com/watch?v=DdcD9otFk4A
 
 file:///C:/Users/madis/bootcamp/advanced-css-portfolio/index.html#
 
+https://mradison.github.io/advanced-css-portfolio/
 
-
+https://github.com/mradison/advanced-css-portfolio
 
 ## Deployment
 
 file:///C:/Users/madis/bootcamp/advanced-css-portfolio/index.html#
 
+https://mradison.github.io/advanced-css-portfolio/
+
+https://github.com/mradison/advanced-css-portfolio
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
