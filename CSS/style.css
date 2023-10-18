@@ -155,9 +155,10 @@ body {
     border: 15px #fff;
 }
 
+/* has link to image folder and picture of a project */
 #magicMenu {
     background-color: #074f57;
-    background-image: url("../CSS/images/MagicMenu.jpg"); 
+    background-image: url("../CSS/images/MagicMenu.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -165,19 +166,21 @@ body {
     padding-bottom: 500px;
 }
 
+/* has a link to a picture with tiny islands */
 .box1 {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     width: 400px;
     height: 200px;
-    background-image: url("../CSS/images/ocean\ with\ tiny\ islands\ .png"); 
+    background-image: url("../CSS/images/ocean\ with\ tiny\ islands\ .png");
     margin: 20px;
     padding: 20px;
     border: 9px solid var(--red);
     flex-direction: column;
 }
 
+/* has a link to picture of flamingos flying */
 .box1 {
     display: flex;
     flex-wrap: wrap;
@@ -191,6 +194,7 @@ body {
     flex-direction: column;
 }
 
+/* has a link to a picture of a sea turtle */
 .box2 {
     display: flex;
     flex-wrap: wrap;
@@ -204,6 +208,7 @@ body {
     flex-direction: column;
 }
 
+/* has a link to picture of mountains */
 .box3 {
     display: flex;
     flex-wrap: wrap;
@@ -217,6 +222,7 @@ body {
     flex-direction: column;
 }
 
+/* has a link to picture of tiny islands  */
 .box4 {
     display: flex;
     flex-wrap: wrap;
