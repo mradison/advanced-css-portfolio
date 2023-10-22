@@ -4,7 +4,6 @@ Advanced CSS Portfolio
 
 Created a website from scratch by creating the index.html file and filling it out to create the website content. I then added style to the website by adding a CSS file and I created the CSS style to make the website pretty. 
 
-
 ## Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
@@ -25,9 +24,6 @@ https://www.youtube.com/watch?v=DdcD9otFk4A
 
 https://www.youtube.com/watch?v=zHZRFwWQt2w
 
-
-
-
 ## Appendix
 
 ![image](https://github.com/mradison/advanced-css-portfolio/assets/58490851/e43814e6-6dab-47f8-a27f-fcdacdbbc322)
@@ -40,6 +36,7 @@ https://www.youtube.com/watch?v=zHZRFwWQt2w
 - [@octokatherine](https://www.github.com/octokatherine)
 
 - Madison Reynolds
+
 ## Demo
 
 ![image](https://github.com/mradison/advanced-css-portfolio/assets/58490851/e43814e6-6dab-47f8-a27f-fcdacdbbc322)
@@ -61,6 +58,7 @@ https://mradison.github.io/advanced-css-portfolio/
 https://github.com/mradison/advanced-css-portfolio
 
 ## 🔗 Links
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
